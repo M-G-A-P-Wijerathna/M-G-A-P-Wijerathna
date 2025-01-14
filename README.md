@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="200" src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif">
+</p>
+
 <h1 align="center">Hi 👋, I'm Anjalika Wijerathna</h1>
 <h3 align="center">Computer Science Undergraduate at Uva Wellassa University of Sri Lanka</h3>
 
