@@ -2,6 +2,13 @@
     <img width="200" src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif">
 </p>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=ffff00&size=30&center=true&vCenter=true&width=600&height=100&lines=Software+Developer...;Love+to+learn+new+stuffs...;">
+  </a>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Anjalika Wijerathna</h1>
 <h3 align="center">Computer Science Undergraduate at Uva Wellassa University of Sri Lanka</h3>
 
