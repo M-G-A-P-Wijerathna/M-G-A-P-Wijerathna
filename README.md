@@ -2,15 +2,31 @@
 <h3 align="center">Computer Science Undergraduate at Uva Wellassa University of Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=m-g-a-p-wijerathna&label=Profile%20views&color=0e75b6&style=flat" alt="m-g-a-p-wijerathna" /> </p>
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🎓 I’m currently an undergraduate **Uva Wellassa University of Sri Lanka**
 
-- 🌱 I’m currently learning **Mobile Application Development, Web application Development**
-
+- 🌱 I’m currently studying:
+	- Mobile Application Development 
+	- Web Application Development 
 - 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **anjalikawijerathna316@gmail.com**
 
 - ⚡ Fun fact **Call me as Anju**
 
+
+  </td>
+<td width="50%" align="center">
+  <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+</td>
+</tr>
+</table>
+<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">My Statistics:</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anjalika wijerathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjalika wijerathna" height="30" width="40" /></a>
