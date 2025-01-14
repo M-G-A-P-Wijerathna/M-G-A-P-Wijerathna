@@ -60,8 +60,8 @@
 
 <h3 align="center">Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <br
-<p align="left">
-<a href="https://linkedin.com/in/anjalika wijerathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjalika wijerathna" height="30" width="40" /></a>
+<p align="center">
+<a href="https://linkedin.com/in/anjalika wijerathna" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="anjalika wijerathna" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
